@@ -2,7 +2,7 @@
     "name": "heni/php-router",
     "description": "this is simple router",
     "require": {
-        "php": "^7.3"
+        "php": "^7.3||^8.0"
     },
     "license": "MIT",
     "autoload": {
