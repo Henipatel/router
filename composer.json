@@ -1,0 +1,20 @@
+{
+    "name": "heni/php-router",
+    "description": "this is simple router",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Heni\\PhpRouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Henipatel",
+            "email": "35092588+Henipatel@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
